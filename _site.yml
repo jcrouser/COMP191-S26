@@ -1,0 +1,37 @@
+name: "COMP191"
+output_dir: "docs"
+navbar:
+  title: "COMP191: Introduction to Design Thinking"
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "Syllabus"
+      href: https://moodle.kenyon.edu/pluginfile.php/528737/mod_resource/content/1/COMP191_design_thinking_syllabus.pdf
+      icon: fa-file
+    - text: "Schedule"
+      href: schedule.html
+      icon: fa-calendar
+    # - text: "Policies & Guides"
+    #   icon: fa-gavel
+    #   menu: 
+    #   - text: "Late Policy"
+    #     href: late-policy.html
+    #   - text: "Java Style Guide"
+    #     href: style-guide.html
+    #   - text: "Javadoc Example"
+    #     href: javadoc.html
+    - text: "Moodle"
+      href: https://moodle.kenyon.edu/course/view.php?id=19905
+      icon: fa-graduation-cap
+    # - text: "Gradescope"
+    #   href: https://www.gradescope.com/courses/968473
+    #   icon: fa-code
+    # - text: "Slack"
+    #   href: https://csc-120-all-202503.slack.com
+    #   icon: fa-slack
+              
+output:
+  html_document:
+    theme: yeti
+    css: style.css

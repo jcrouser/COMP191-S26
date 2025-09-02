@@ -1,0 +1,53 @@
+---
+title: "Schedule"
+---
+
+<style>
+
+.schedule colgroup col {
+    width: auto !important;
+}
+
+.schedule th {
+  text-align: left;
+}
+
+
+.schedule body {
+  padding: 1rem;
+}
+
+.schedule tr:nth-child(2n) {
+    background: lightgrey;
+}
+
+.schedule tr:nth-child(13){
+  background: #333333;
+  color: white;
+}
+
+</style>
+
+The following schedule is subject to change based on the progress of the class. Please check back frequently!
+
+<div class = "schedule">
+| **Date** | **Topic**  | **Assignment Out** |
+| ---------|------------|--------------------|
+2-Sept | Week 0: Welcome \& Introductions | [Reflection 0: Program History](https://moodle.kenyon.edu/mod/assign/view.php?id=413799)
+9-Sept | Week 1: Histroies \& Futures | Timeline and Speculative Futures Map
+16-Sept | Week 2: Stakeholders \& Systems | Stakeholder Maps, interview planning
+23-Sept | Week 3: Values \& Constraints | Draft of design principles
+30-Sept | Week 4: Curricular Models I | Comparative analysis
+7-Oct | Week 5: Concept Sketches | Midpoint portfolio (draft)
+14-Oct | Week 6: Curricular Models II | Sample courses
+21-Oct | Week 7: Crosswalks \& Collaboration | Affiliation map and co-teaching scenarios
+28-Oct | Week 8: Governance \& Sustainability | Governance models
+4-Nov | Week 9: Feedback \& Revision I | Refined prototypes
+11-Nov | Week 10: Feedback \& Revision II | Portfolio draft
+18-Nov | Week 11: Communicating with Stateholders | Draft showcase artifacts
+23-Nov | THANKSGIVING BREAK |
+2-Dec | Week 12: Workshop \& Showcase Prep | Refined showcase artifacts
+9-Dec | Week 13: Public Showcase |
+
+
+</div>
