@@ -9,7 +9,7 @@ lang: "en"
 <br/>
 
 <div>
-  <img src = "img/oop.png" alt = "Object-oriented programming graphic with blue background image illustrating various computer science themes" width = "250" align="right"/>
+  <img src = "img/dt.png" alt = "Five stages of Design Thinking: empathize, define, ideate, prototype, test." width = 50% align="right"/>
 
 <div>
 **Instructor:** [R. Jordan Crouser](https://jcrouser.github.io)
@@ -36,6 +36,7 @@ _No prerequisites, and all levels of prior technical experience are welcome — 
 
 ## Learning Goals:
 By the end of the course, students will be able to:
+
  - Apply the phases of human-centered design to open-ended challenges.
  - Build rapid prototypes to explore ideas and learn through making.
  - Engage generously in interdisciplinary collaboration and knowledge-sharing.
