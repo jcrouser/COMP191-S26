@@ -21,7 +21,10 @@ title: "Schedule"
     background: lightgrey;
 }
 
-.schedule tr:nth-child(13){
+.schedule tr:nth-child(15),
+.schedule tr:nth-child(16),
+.schedule tr:nth-child(17),
+.schedule tr:nth-child(18){
   background: #333333;
   color: white;
 }
@@ -31,23 +34,40 @@ title: "Schedule"
 The following schedule is subject to change based on the progress of the class. Please check back frequently!
 
 <div class = "schedule">
-| **Date** | **Topic**  | **Assignment Out** |
+| **Week** | **Date**  | **Topic** |
 | ---------|------------|--------------------|
-2-Sept | Week 0: Welcome \& Introductions | [Reflection 0: Program History](https://moodle.kenyon.edu/mod/assign/view.php?id=413799)
-9-Sept | Week 1: Histroies \& Futures | Timeline and Speculative Futures Map
-16-Sept | Week 2: Stakeholders \& Systems | Stakeholder Maps, interview planning
-23-Sept | Week 3: Values \& Constraints | Draft of design principles
-30-Sept | Week 4: Curricular Models I | Comparative analysis
-7-Oct | Week 5: Concept Sketches | Midpoint portfolio (draft)
-14-Oct | Week 6: Curricular Models II | Sample courses
-21-Oct | Week 7: Crosswalks \& Collaboration | Affiliation map and co-teaching scenarios
-28-Oct | Week 8: Governance \& Sustainability | Governance models
-4-Nov | Week 9: Feedback \& Revision I | Refined prototypes
-11-Nov | Week 10: Feedback \& Revision II | Portfolio draft
-18-Nov | Week 11: Communicating with Stateholders | Draft showcase artifacts
-23-Nov | THANKSGIVING BREAK |
-2-Dec | Week 12: Workshop \& Showcase Prep | Refined showcase artifacts
-9-Dec | Week 13: Public Showcase |
+| 1    | Jan 13      | Framing security as a socio-technical system |
+|     | Jan 15      | Introductory red/blue simulation; assets, threats, constraints |
+| 2    | Jan 20      | Threat modeling without code |
+|     | Jan 22      | Threat modeling lab (shared system) |
+| 3    | Jan 27      | Hardware roots of trust |
+|     | Jan 29      | Trust chains and physical constraints |
+| 4    | Feb 3       | Software supply chains and AI-assisted development |
+|     | Feb 5       | Dependency and update risk analysis |
+| 5    | Feb 10      | Humans as the attack surface; social engineering |
+|     | Feb 12      | Social engineering scenarios |
+| 6    | Feb 17      | Authentication, identity, and access |
+|     | Feb 19      | Login and identity walkthroughs |
+| 7    | Feb 24      | Side channels and unintended leakage |
+|     | Feb 26      | Side-channel reasoning exercise |
+| 8    | Mar 3       | Spring Break (no class) |
+|     | Mar 5       | Spring Break (no class) |
+| 9    | Mar 10      | Spring Break (no class) |
+|     | Mar 12      | Spring Break (no class) |
+| 10   | Mar 17      | AI systems as attack surfaces |
+|    | Mar 19      | AI failure scenarios |
+| 11   | Mar 24      | Secure software in practice |
+|    | Mar 26      | Code review without coding |
+| 12   | Mar 31      | Embedded and IoT systems |
+|    | Apr 2       | IoT lifecycle security planning |
+| 13   | Apr 7       | Incident response and resilience |
+|    | Apr 9       | Tabletop incident response simulation |
+| 14   | Apr 14      | Security, power, and governance |
+|    | Apr 16      | Policy and investment tradeoffs |
+| 15   | Apr 21      | Synthesis: security as a socio-technical system |
+|    | Apr 23      | Final project workshop |
+| 16   | Apr 28      | Final project presentations |
+|    | Apr 30      | Course reflection and wrap-up |
 
 
 </div>

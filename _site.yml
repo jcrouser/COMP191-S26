@@ -1,13 +1,13 @@
 name: "COMP191"
 output_dir: "docs"
 navbar:
-  title: "COMP191: Introduction to Design Thinking"
+  title: "COMP191: Contemporary Topics in Computing"
   left:
     - text: "Home"
       href: index.html
       icon: fa-home
     - text: "Syllabus"
-      href: https://moodle.kenyon.edu/pluginfile.php/528737/mod_resource/content/1/COMP191_design_thinking_syllabus.pdf
+      href: https://moodle.kenyon.edu/pluginfile.php/553521/mod_resource/content/1/COMP191-S26-Contemporary-COMP-syllabus.pdf
       icon: fa-file
     - text: "Schedule"
       href: schedule.html
@@ -22,7 +22,7 @@ navbar:
     #   - text: "Javadoc Example"
     #     href: javadoc.html
     - text: "Moodle"
-      href: https://moodle.kenyon.edu/course/view.php?id=19905
+      href: https://moodle.kenyon.edu/course/view.php?id=20043
       icon: fa-graduation-cap
     # - text: "Gradescope"
     #   href: https://www.gradescope.com/courses/968473

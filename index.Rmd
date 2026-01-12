@@ -9,16 +9,16 @@ lang: "en"
 <br/>
 
 <div>
-  <img src = "img/dt.png" alt = "Five stages of Design Thinking: empathize, define, ideate, prototype, test." width = 50% align="right"/>
+  <img src = "img/security.jpg" alt = "Banner image featuring a laptop keyboard overlaid with hexagonal cybersecurity icons, including a lock, fingerprint, shield, and 2FA." width = 50% align="right"/>
 
 <div>
 **Instructor:** [R. Jordan Crouser](https://jcrouser.github.io)
 
-**Course Meets:** Tuesdays 7:00pm - 10:00pm
+**Course Meets:** Tuesdays and Thursdays 1:10-2:30
 
-**Location:** [Chalmers 320](https://map.concept3d.com/?id=199#!ct/94089,94091,94092?m/597440?s/chalmers)
+**Location:** [Hayes 109](https://map.concept3d.com/?id=199#!bm/?ct/94089,94091,94092?m/128654?s/hayes)
 
-**Jordan's Office Hours:** TBD
+**Jordan's Office Hours:** Wednesdays 11am - 12:30pm and by appointment
 
 </div>
 </div>
@@ -26,20 +26,18 @@ lang: "en"
 <hr>
 
 ## Course Description:
-Whether you’re building software or shaping social systems, the essence of computing lies in thoughtful problem-solving. Design Thinking brings this ethos to life through a human-centered, systems-aware, and community-driven lens. In this course, students from all disciplines will learn to approach problems in the world around them with curiosity, empathy, and a passion to build and iterate.
-
-Through a hands-on practicum structure, we will explore the full design thinking cycle: empathizing with users, defining meaningful problems, generating ideas, prototyping tangible solutions, and reflecting critically. Our work will focus on creating personally meaningful, community-centered interventions that demonstrate how even small design choices can contribute to resilience, accessibility, and positive change.
-
-_No prerequisites, and all levels of prior technical experience are welcome — just bring your curiosity, courage, and a commitment to learning by doing._
+Modern computing evolves at a rapid pace, with new methods, tools, and sociotechnical practices emerging all the time. This course offers an adaptable, rotating exploration of contemporary developments in computing that have significant technical, societal, or interdisciplinary impact. In Spring 2026, the course will examine how digital security is evolving across hardware, software, and human-centered systems, with an emphasis on how failures in practice often emerge from design choices, organizational processes, and human behavior rather than technical flaws alone. Interactive simulations, structured adversarial scenarios, and guided analysis anchor the course’s examination of how systems are stressed, defended, and redesigned under real-world constraints. _No prior coding or security background required._
 
 <hr>
 
 ## Learning Goals:
 By the end of the course, students will be able to:
 
- - Apply the phases of human-centered design to open-ended challenges.
- - Build rapid prototypes to explore ideas and learn through making.
- - Engage generously in interdisciplinary collaboration and knowledge-sharing.
- - Reflect critically on iteration, failure, resilience, and ethical design.
- - Communicate design processes and outcomes clearly to diverse audiences.
- - Understand design within broader societal, cultural, and systemic contexts.
+ - Explain foundational ideas underlying contemporary digital security.
+ - Apply computational ways of thinking to security scenarios.
+ - Analyze failures arising from interactions between technology and people.
+ - Evaluate tradeoffs in real-world security systems.
+ - Communicate analyses through written, visual, or simulated artifacts.
+ - Work collaboratively on open-ended problems.
+ - Synthesize perspectives from multiple disciplines.
+
