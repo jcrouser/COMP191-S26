@@ -1,0 +1,71 @@
+---
+title: "Scenario 2: The Locked-Down System"
+output:
+  html_document:
+    df_print: paged
+lang: "en"
+---
+
+## Context
+
+You are consulting for a small research lab that works with regulated or sensitive data and takes security seriously. The lab has invested in technical controls and formal processes to protect its systems.
+
+From the outside, the system appears well-designed and professionally managed.
+
+## What You Know
+
+- All data is stored on a secured internal server.
+
+- Access requires:
+   - campus VPN
+   - individual user credentials
+   - multi-factor authentication (MFA)<br/><br/>
+
+- Permissions are role-based and reviewed annually.
+
+- System logs are collected and periodically audited.
+
+- Backups are encrypted and stored offsite.
+
+- The lab has a documented incident response plan.
+
+- Graduate students and research assistants rotate in and out of the lab frequently.
+
+- Lab members often work:
+  - late at night
+  - from home
+  - on personal laptops<br/><br/>
+
+- For convenience, people sometimes share results or intermediate outputs via:
+  - email
+  - Slack
+  - other informal channels<br/><br/>
+
+## Your Task
+
+As a group, conduct a threat assessment of this system. Specifically:
+
+ - Identify the assets worth protecting<br/>
+_(Consider data, people, research integrity, compliance, and institutional trust.)_
+
+ - Identify plausible threat actors<br/>
+_(External attackers, insiders, compromised insiders, accidental misuse, etc.)_
+
+ - Identify plausible attack paths or failure modes<br/>
+_(Pay attention to how real work gets done.)_
+
+ - Identify the most important risks, distinguishing between:
+   - what is most severe
+   - what is most likely<br/><br/>
+
+- Propose practical mitigations that:
+   - improve security
+   - do not halt or seriously degrade research work<br/><br/>
+
+## Deliverable
+
+Be prepared to share:
+
+ - Three risks you would worry about most (with a brief explanation)
+ - Three mitigations you would implement first (with a brief explanation)
+ - One assumption your group made that could change the analysis

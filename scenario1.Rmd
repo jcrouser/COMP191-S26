@@ -1,0 +1,69 @@
+---
+title: "Scenario 1: The Convenient System"
+output:
+  html_document:
+    df_print: paged
+lang: "en"
+---
+
+## Context
+
+You are part of a small campus office that manages student-facing services such as advising appointments, basic forms, and informal records. Over time, the office has built a lightweight system intended to “make things easier” for both staff and students.
+
+The system was created organically, without formal IT involvement, and has become part of daily operations.
+
+## What You Know
+
+- The system is a shared Google Sheet linked from the office website.
+
+- Students sign up for appointments by entering:
+   - their name
+   - their student ID number<br/><br/>
+
+- The link is public: anyone with the link can view and edit the sheet.
+
+- The link is not widely advertised, but it is not access-controlled.
+
+- Staff rely on the sheet daily and check it frequently.
+
+- The sheet appears to contain only:
+   - names
+   - ID numbers
+   - appointment times
+   - brief appointment notes<br/><br/>
+   
+- There is:
+   - no authentication
+   - no access control
+   - no logging or change history reviewed in practice
+
+## Your Task
+
+As a group, conduct a threat assessment of this system. Specifically:
+
+ - Identify the assets worth protecting <br/>
+_(Remember: assets may include people, time, trust, or institutional processes—not just “data.”)_
+
+ - Identify plausible threat actors and their likely motivations<br/>
+_(Malicious, careless, curious, bored, opportunistic, etc.)_
+
+ - Identify plausible ways the system could be misused or fail<br/>
+_(Focus on realistic scenarios, not exotic hacks.)_
+
+ - Identify the most important risks, distinguishing between:
+   - what is most severe if it happens
+   - what is most likely to happen<br/><br/>
+   
+- Propose practical mitigations that:
+   - reduce risk meaningfully
+   - do not significantly disrupt staff workflows
+
+## Deliverable
+
+Be prepared to share:
+
+ - Three risks you would worry about most (with a brief explanation)
+ 
+ - Three mitigations you would implement first (with a brief explanation)
+ 
+ - One assumption your group made that could change the analysis
