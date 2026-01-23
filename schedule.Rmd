@@ -37,15 +37,15 @@ The following schedule is subject to change based on the progress of the class. 
 | **Week** | **Date**  | **Topic** |
 | ---------|------------|--------------------|
 | 1    | Jan 13      | Framing security as a socio-technical system |
-|     | Jan 15      | Introductory red/blue simulation; assets, threats, constraints |
-| 2    | Jan 20      | Threat modeling without code |
-|     | Jan 22      | Threat modeling lab (shared system) |
-| 3    | Jan 27      | Hardware roots of trust |
+|     | Jan 15      | Introductory red/blue simulation |
+| 2    | Jan 20      | Day 1 Rewind (for new arrivals) |
+|     | Jan 22      | Threat assessment |
+| 3    | Jan 27      | [Keynote Address by D. Graham Burnett](https://www.kenyon.edu/events/summit-on-liberal-arts-x-ai/2026-01-26/#keynote) -- TIME CHANGE: 11a-12p |
 |     | Jan 29      | Trust chains and physical constraints |
 | 4    | Feb 3       | Software supply chains and AI-assisted development |
 |     | Feb 5       | Dependency and update risk analysis |
 | 5    | Feb 10      | Humans as the attack surface; social engineering |
-|     | Feb 12      | Social engineering scenarios |
+|     | Feb 12      | Social engineering scenarios, with [Carter Schoenfeld](https://www.kenyon.edu/directory/carter-schoenfeld/) |
 | 6    | Feb 17      | Authentication, identity, and access |
 |     | Feb 19      | Login and identity walkthroughs |
 | 7    | Feb 24      | Side channels and unintended leakage |
