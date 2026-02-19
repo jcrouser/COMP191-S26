@@ -46,8 +46,8 @@ The following schedule is subject to change based on the progress of the class. 
 |     | Feb 5       | Dependency and update risk analysis |
 | 5    | Feb 10      | Humans as the attack surface; social engineering |
 |     | Feb 12      | Social engineering scenarios, with [Carter Schoenfeld](https://www.kenyon.edu/directory/carter-schoenfeld/) |
-| 6    | Feb 17      | Authentication, identity, and access |
-|     | Feb 19      | Login and identity walkthroughs |
+| 6    | Feb 17      | Access and Preservation in Archival Practice, with [Jenna Nolt](https://www.linkedin.com/in/jenna-nolt-562904132/) |
+|     | Feb 19      | Authentication, identity, and access |
 | 7    | Feb 24      | Side channels and unintended leakage |
 |     | Feb 26      | Side-channel reasoning exercise |
 | 8    | Mar 3       | Spring Break (no class) |
