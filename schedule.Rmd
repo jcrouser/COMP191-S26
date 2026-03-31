@@ -24,7 +24,8 @@ title: "Schedule"
 .schedule tr:nth-child(15),
 .schedule tr:nth-child(16),
 .schedule tr:nth-child(17),
-.schedule tr:nth-child(18){
+.schedule tr:nth-child(18)
+.schedule tr:nth-child(26){
   background: #333333;
   color: white;
 }
