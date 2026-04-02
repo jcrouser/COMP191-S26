@@ -60,7 +60,7 @@ The following schedule is subject to change based on the progress of the class. 
 | 11   | Mar 24      | Secure software in practice |
 |    | Mar 26      | Code review without coding |
 | 12   | Mar 31      | Embedded and IoT systems, with [Doug Carl](https://www.linkedin.com/in/dougkarl/) |
-|    | Apr 2       | IoT lifecycle security planning |
+|    | Apr 2       | Final Project Workshop |
 | 13   | Apr 7       | Incident response and resilience |
 |    | Apr 9       | REGULAR CLASS CANCELLED, Optional Field Trip to [Divelbiss](https://www.divelbiss.com/) |
 | 14   | Apr 14      | Security, power, and governance |
